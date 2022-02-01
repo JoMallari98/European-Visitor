@@ -5,8 +5,8 @@ Europian-Visitor, with a frontend built in React & Redux and a backend built in 
 ## Live Demo
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://european-visitor-frontend.herokuapp.com/) here!!
-Check out [API LIVE DEMO](https://european-visitor-backend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://europevisitor-frontend.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://europevisitor-backend.herokuapp.com/) here!!
 ## Tech used
 ```
 * Frontend : React & Redux
