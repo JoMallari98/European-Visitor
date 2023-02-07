@@ -23,7 +23,7 @@ const Card = ({place}) => {
     }, [favourites]);
 
     return (
-        <>
+        
            <div class="gridcontent row">
                 
                 <div class="image">
@@ -52,7 +52,7 @@ const Card = ({place}) => {
                   </div>
               </div>
               </div>  
-        </>
+        
     )
 }
 
